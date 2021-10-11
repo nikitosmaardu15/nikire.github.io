@@ -8,7 +8,6 @@
 <h2>Coaches: Andreas Valkrusman </h2>
 <p>Players: Nekke, Danbalan, AdrianSosa, Edik, Danila, Artjom, Nikita, Roma, Stas, Sanja, Alan, Sasha, Elnur... </p>
 <img src="https://qazaquni.kz/wp-content/uploads/2019/10/2019100211213810.jpg" alt="Trulli" width="500" height="333">
-<style> table, th, td { border:1px solid black; } </style>
 <table style="width:100%">
   <tr>
     <td>Win</td>
