@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-</style>
 <body>
 <h1>213094IAIB</h1>
 <p>FCJager</p>
